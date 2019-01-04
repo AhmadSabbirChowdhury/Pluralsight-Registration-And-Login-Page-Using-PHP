@@ -11,5 +11,5 @@ I used 'password_hash' function and 'PASSWORD_DEFAULT' as a parameter.
 After login users can log out from the page.
 
 
-        Pluralsight-Registration-And-Login-Page-Using-PHP/Screen-Shot.PNG
+     # Pluralsight-Registration-And-Login-Page-Using-PHP/Screen-Shot.PNG
       
